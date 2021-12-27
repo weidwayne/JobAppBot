@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+common-intern-master/
+linkedin-jobs-scraper/
+common-intern-master.zip
+geckodriver.log
+linkedin-jobs-scraper.zip
+scrape.py
